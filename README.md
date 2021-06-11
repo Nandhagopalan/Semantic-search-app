@@ -1,1 +1,2 @@
-# Semantic-search-app
+# cassava_app
+Cassava disease leaf classification Streamlit App
